@@ -5,12 +5,12 @@
 # How to run
 ## 1. Clone this repository in a folder:
 ```
-git clone git@github.com:arielweinberger/ctg-locations-service.git
+git clone git@github.com: https://github.com/debbiecohen/map-service.git
 ```
 
 ## 2. Make sure you `cd` int othe project folder
 ```
-cd ctg-locations-service
+cd map-service
 ```
 
 ## 3. Install NPM dependencies
@@ -33,4 +33,3 @@ nodemon src/index.js
 ```
 
 ## Enjoy!
-The service should be available at `http://localhots:3000`
